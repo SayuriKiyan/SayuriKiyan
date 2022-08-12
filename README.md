@@ -26,7 +26,7 @@
 
 ## GitHub Analytics
 <div  align="center">
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=SayuriKiyan&show_icons=true&theme=algolia"/>  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayuriKiyan&layout=compact&hide=shell&theme=algolia"/> 
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=SayuriKiyan&show_icons=true&theme=algolia"/>  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayuriKiyan&layout=compact&hide=shell&theme=algolia"/> 
 </div>
 
 
