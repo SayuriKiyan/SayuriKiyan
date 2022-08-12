@@ -31,7 +31,7 @@
 
 
 ## Contatos
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/SayuriKiyan/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayurikiyan/) 
 [![email](https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ksayuri93@live.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](http://www.instagram.com/SayUsagi)
 
